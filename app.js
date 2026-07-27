@@ -33,5 +33,9 @@ function add(m,n){
 }
 let b=5;
 let a=5;
-console.log(add(a,b));
-;
+// console.log(add(a,b));
+
+
+
+
+
